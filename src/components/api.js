@@ -17,7 +17,7 @@ export const questions = [
     {
         id: 4,
         question: "What is Nodejs?",
-        answer: "Javascript is the light weight, dynamically typed web scripting languageNode.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine and executes JavaScript code outside a web browser, which was designed to build scalable network applications."
+        answer: "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine and executes JavaScript code outside a web browser, which was designed to build scalable network applications."
     },
     {
         id: 5,
